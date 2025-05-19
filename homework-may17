@@ -109,8 +109,23 @@
         <narx>14$</narx>
       </meva> 
     </mevalar>
-    <don></don>
-
+    <donlar>
+           <don id="4">
+          <nom>boshoq</nom>
+          <rangi>sariq</rangi>
+          <narx>12$</narx>
+      </don>
+      <don id="5">
+          <nom>guruch</nom>
+          <rangi>qizil</rangi>
+          <narx>13$</narx>
+      </don>  
+      <don id="6">
+        <don>makaron</don>
+        <rangi>yashil</rangi>
+        <narx>14$</narx>
+      </don>    
+    </donlar>
     <tugunaklar>
 
     </tugunaklar>

@@ -177,3 +177,15 @@
             </sold>
     </available>
 </turlar>
+
+
+
+<products>
+   <sabzavot id="1">
+          <nom>pomidor</nom>
+          <nom>karam</nom>
+          <nom>ismaloq</nom>
+   </sabzavot>
+   
+
+</products>

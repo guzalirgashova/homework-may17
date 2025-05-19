@@ -1,5 +1,36 @@
-<fruits>
- <fruit>
-             
- </fruit>
-</fruits>
+<departments>
+      <fruits>
+          <fruit id="1">
+            <name>Apple</name>
+            <color>red</color>
+            <price>1$</price>
+          </fruit>
+
+          <car id="2">
+            <name>Banana</name>
+            <color>yellow</color>
+            <price>2$</price>
+          </car>
+
+          <car id="3">
+            <name>Orange</name>
+            <color>orange</color>
+            <price>3$</price>
+          </car>
+      </fruits>
+
+      <availabble>
+            <sold type="Apple">
+                <id>1</id>
+                <id>2</id>
+            </sold>
+            <sold type="Banana">
+                <id>1</id>
+                <id>3</id>
+            </sold>
+            <sold type="price">
+                <id>1</id>
+                <id>2</id>
+            </sold>
+      </availabble>
+</departments>

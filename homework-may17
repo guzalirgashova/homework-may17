@@ -179,13 +179,38 @@
 </turlar>
 
 
-
+<bolimlar>
 <products>
    <sabzavot id="1">
           <nom>pomidor</nom>
           <nom>karam</nom>
           <nom>ismaloq</nom>
    </sabzavot>
-   
-
+   <meva id="2">
+          <nom>apelsin</nom>
+          <nom>qulupnay</nom>
+          <nom>banan</nom>
+   </meva>
+   <donlar id="3">
+          <nom>boshoq</nom>
+          <nom>guruch</nom>
+          <nom>makaron</nom>
+   </donlar>
+   <tugunaklar id="1">
+          <nom>kassava</nom>
+          <nom>sabzi</nom>
+          <nom>kartoshka</nom>
+   </tugunaklar>
+   <dukkakliklar id="1">
+          <nom>loviya</nom>
+          <nom>noxot</nom>
+          <nom>joxori</nom>
+   </dukkakliklar>
 </products>
+</bolimlar>
+<availabble>
+    <details sabzovot="1" meva="1" tugunliklar="1" dukkakliklar="1"></details>
+    <details sabzovot="2" meva="2" tugunliklar="2" dukkakliklar="2"></details>
+    <details sabzovot="3" meva="3" tugunliklar="3" dukkakliklar="3"></details>
+    <details sabzovot="4" meva="4" tugunliklar="4" dukkakliklar="4"></details>
+</availabble>

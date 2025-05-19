@@ -74,6 +74,8 @@
    <equal>
 </tables>
 
+
+
 <turlar>
     <sabzavotlar>
       <sabzavot id="1">
@@ -110,26 +112,54 @@
       </meva> 
     </mevalar>
     <donlar>
-           <don id="4">
+           <don id="7">
           <nom>boshoq</nom>
           <rangi>sariq</rangi>
           <narx>12$</narx>
       </don>
-      <don id="5">
+      <don id="8">
           <nom>guruch</nom>
           <rangi>qizil</rangi>
           <narx>13$</narx>
       </don>  
-      <don id="6">
+      <don id="9">
         <don>makaron</don>
         <rangi>yashil</rangi>
         <narx>14$</narx>
       </don>    
     </donlar>
     <tugunaklar>
-
+      <tugunak id="10">
+          <nom>kassava</nom>
+          <rangi>sariq</rangi>
+          <narx>12$</narx>
+      </tugunak>
+      <tugunak id="11">
+          <nom>sabzi</nom>
+          <rangi>qizil</rangi>
+          <narx>13$</narx>
+      </tugunak>  
+      <tugunak id="12">
+        <don>kartoshka</don>
+        <rangi>yashil</rangi>
+        <narx>14$</narx>
+      </tugunak>  
     </tugunaklar>
     <dukkakliklar>
-
+      <dukkak id="13">
+          <nom>loviya</nom>
+          <rangi>sariq</rangi>
+          <narx>12$</narx>
+      </dukkak>
+      <dukkak id="14">
+          <nom>noxat</nom>
+          <rangi>qizil</rangi>
+          <narx>13$</narx>
+      </dukkak>  
+      <dukka id="15">
+        <don>joxori</don>
+        <rangi>yashil</rangi>
+        <narx>14$</narx>
+      </dukka>  
     </dukkakliklar>
 </turlar>

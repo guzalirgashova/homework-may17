@@ -77,19 +77,19 @@
 <turlar>
     <sabzavotlar>
       <sabzavot id="1">
-        <nom>pomidor</nom>
-        <rangi>qizil</rangi>
-        <narx>10$</narx>
+          <nom>pomidor</nom>
+          <rangi>qizil</rangi>
+          <narx>10$</narx>
       </sabzavot>
       <sabzavot id="2">
-        <nom>karam</nom>
-        <rangi>kok</rangi>
-        <narx>80$</narx>
+          <nom>karam</nom>
+          <rangi>kok</rangi>
+          <narx>80$</narx>
       </sabzavot>  
-      <sabzavot id="2">
-        <nom>karam</nom>
-        <rangi>kok</rangi>
-        <narx>80$</narx>
+      <sabzavot id="3">
+        <nom>ismaloq</nom>
+        <rangi>yashil</rangi>
+        <narx>11$</narx>
       </sabzavot>  
     </sabzavotlar>
     <mevalar>

@@ -93,9 +93,24 @@
       </sabzavot>  
     </sabzavotlar>
     <mevalar>
-
+      <meva id="4">
+          <nom>apelsin</nom>
+          <rangi>sariq</rangi>
+          <narx>12$</narx>
+      </meva>
+      <meva id="5">
+          <nom>qulupnay</nom>
+          <rangi>qizil</rangi>
+          <narx>13$</narx>
+      </meva>  
+      <meva id="6">
+        <nom>banan</nom>
+        <rangi>yashil</rangi>
+        <narx>14$</narx>
+      </meva> 
     </mevalar>
     <don></don>
+
     <tugunaklar>
 
     </tugunaklar>

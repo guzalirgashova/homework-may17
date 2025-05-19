@@ -52,4 +52,25 @@
         <row4>False</row4>
      </column>
    </columns>
+   <equal type="True">
+         <id>1</id>
+         <id>2</id>
+   <equal>
 </tables>
+
+
+<tables>
+   <results>
+    <result id="1true">
+        <name>P</name>
+    </result>
+    <result id="2true">
+        <name>P</name>
+    </result>
+   </results>
+   <equal type="True">
+         <id>1</id>
+         <id>2</id>
+   <equal>
+</tables>
+

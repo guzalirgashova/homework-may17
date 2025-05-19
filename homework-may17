@@ -6,19 +6,18 @@
             <price>1$</price>
           </fruit>
 
-          <car id="2">
+          <fruit id="2">
             <name>Banana</name>
             <color>yellow</color>
             <price>2$</price>
-          </car>
+          </fruit>
 
-          <car id="3">
+          <fruit id="3">
             <name>Orange</name>
             <color>orange</color>
             <price>3$</price>
-          </car>
+          </fruit>
       </fruits>
-
       <availabble>
             <sold type="Apple">
                 <id>1</id>
@@ -40,5 +39,8 @@
 
 <tables>
    <column>
+    <name id="p">
+     <name>True</name>
+     </name>
    </column>
 </tables>

@@ -74,3 +74,32 @@
    <equal>
 </tables>
 
+<turlar>
+    <sabzavotlar>
+      <sabzavot id="1">
+        <nom>pomidor</nom>
+        <rangi>qizil</rangi>
+        <narx>10$</narx>
+      </sabzavot>
+      <sabzavot id="2">
+        <nom>karam</nom>
+        <rangi>kok</rangi>
+        <narx>80$</narx>
+      </sabzavot>  
+      <sabzavot id="2">
+        <nom>karam</nom>
+        <rangi>kok</rangi>
+        <narx>80$</narx>
+      </sabzavot>  
+    </sabzavotlar>
+    <mevalar>
+
+    </mevalar>
+    <don></don>
+    <tugunaklar>
+
+    </tugunaklar>
+    <dukkakliklar>
+
+    </dukkakliklar>
+</turlar>

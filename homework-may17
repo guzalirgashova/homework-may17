@@ -162,4 +162,18 @@
         <narx>14$</narx>
       </dukka>  
     </dukkakliklar>
+    <available>
+        <sold type="Sabzi">
+                <id>1</id>
+                <id>2</id>
+            </sold>
+            <sold type="Banana">
+                <id>1</id>
+                <id>13</id>
+            </sold>
+            <sold type="Loviya">
+                <id>4</id>
+                <id>6</id>
+            </sold>
+    </available>
 </turlar>

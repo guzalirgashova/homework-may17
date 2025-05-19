@@ -38,9 +38,18 @@
 
 
 <tables>
-   <column>
-    <name id="p">
-     <name>True</name>
-     </name>
-   </column>
+   <columns>
+    <column id="P">
+        <row1>True</row1>
+        <row2>True</row2>
+        <row3>False</row3>
+        <row4>False</row4>
+     </column>
+    <column id="Q">
+        <row1>True</row1>
+        <row2>False</row2>
+        <row3>True</row3>
+        <row4>False</row4>
+     </column>
+   </columns>
 </tables>
